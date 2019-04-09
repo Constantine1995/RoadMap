@@ -17,7 +17,7 @@
 
 ## Swift
 
-- [ ] Closures
+- [☑️] Closures
 - [ ] Generics
 - [ ] Initializers
 - [ ] Protocols
