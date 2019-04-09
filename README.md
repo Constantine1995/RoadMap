@@ -124,7 +124,7 @@
 ## Design principles
 
 - [ ] [`SOLID`]()
-  - [ ] Single responsibility principle
+  - ✅ Single responsibility principle
   - ✅ Open/closed principle
   - [ ] Liskov substitution principle
   - [ ] Interface segregation principle
