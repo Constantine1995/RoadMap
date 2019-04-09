@@ -6,23 +6,23 @@
 ##  Memory manadgment  
 
   - [ ] Stack and Heap
-  - ✅ Value vs Reference type
+  - [X] Value vs Reference type
   - [ ] ARC
   - [ ] MRC
   - [ ] Retain cycles
   - [ ] Memory leaks
   - [ ] [Autorelease pool](https://developer.apple.com/documentation/foundation/nsautoreleasepool?language=occ)
   - [ ] Shallow and deep copying
-  - ✅ Weak/Strong references
+  - [X] Weak/Strong references
 
 ## Swift
 
-- ✅ Closures
+- [X] Closures
 - [ ] Generics
-- ✅ Initializers
-- ✅ Protocols
-- ✅ Struct
-- ✅ Enums
+- [X] Initializers
+- [X] Protocols
+- [X] Struct
+- [X] Enums
 - [ ] Runtime
 - [ ] Method dispatch
 
@@ -43,19 +43,19 @@
 - [ ] [Green threads](https://ru.wikipedia.org/wiki/Green_threads)
 - [ ] Runloop
 
-## `UIKit`
+## ✅ `UIKit`
 
-- ✅ UIApplication
-- ✅ UIApplication: States
-- ✅ [`UIViews`]()
-  - ✅ UITableViews
-  - ✅ UICollectionViews
-- ✅ [`Layout`]()
-  - ✅ Frame-based
-  - ✅ Autolayout
-- ✅ Navigation
-- ✅ UIViewController
-- ✅ UIViewController: Lifecycle
+- [X] UIApplication
+- [X] UIApplication: States
+- [X] [`UIViews`]()
+  - [X] UITableViews
+  - [X] UICollectionViews
+- [X] [`Layout`]()
+  - [X] Frame-based
+  - [X] Autolayout
+- [X] Navigation
+- [X] UIViewController
+- [X] UIViewController: Lifecycle
 
 ## Networking
 
@@ -80,7 +80,7 @@
 * [clean architecture 1](https://hackernoon.com/introducing-clean-swift-architecture-vip-770a639ad7bf)
 * [clear architecture 2](https://clean-swift.com/clean-swift-ios-architecture/)
 
-- ✅ MVC
+- [X] MVC
 - [ ] MVVM
 - [ ] MVP
 - [ ] VIPER
@@ -94,7 +94,7 @@
   - [ ] Factory Method
   - [ ] Prototype
   - [ ] Object Pool
-  - ✅ Singleton
+  - [X] Singleton
 - [ ] [`Structural`]()
   - [ ] Adapter
   - [ ] Bridge
@@ -124,14 +124,14 @@
 ## Design principles
 
 - [ ] [`SOLID`]()
-  - ✅ Single responsibility principle
-  - ✅ Open/closed principle
+  - [X] Single responsibility principle
+  - [X] Open/closed principle
   - [ ] Liskov substitution principle
   - [ ] Interface segregation principle
   - [ ] Dependency inversion principle
 - [ ] Inversion of Control
 - [ ] Dependency Injection
-- ✅ Dry (don't repeat yourself)
+- [X] Dry (don't repeat yourself)
 - [ ] KISS (keep it simple, stupid)
 
 ## Dependency management
@@ -139,18 +139,18 @@
 * [article #1](https://medium.com/ios-os-x-development/cocoapods-vs-carthage-675633e89c3e)
 * [article #2](https://dzone.com/articles/carthage-or-cocoapods-that-is-the-question)
 
-- ✅ Cocoapods
+- [X] Cocoapods
 - [ ] Carthage
 - [ ] Swift Package Manager
 
 ## Version Control System
 
-- ✅ git
+- [X] git
 - [ ] SVN
 
 ## Caching and Presistency (2/4)
 
-- ✅ Core Data
+- [X] Core Data
 - [ ] Realm
 - [ ] YAPDatabase
 - [ ] SQLite
@@ -165,8 +165,8 @@
 
 ## XCode/Tools/Debbuging (7/11)
 
-- ✅ Workspace/cocoapods
-- ✅ Interface Builder
+- [X] Workspace/cocoapods
+- [X] Interface Builder
 - [ ] Keychain
 - [ ] Security Transforms API
 - [ ] UI Debbuging
@@ -187,9 +187,9 @@
 ## Computer Science knowledge (2/22)
 
 - [ ] Algorithms
-  - ✅ Sorting
+  - [X] Sorting
   - [ ] Graph Theory -> Trees
-  - ✅ Strings
+  - [X] Strings
 
   - [ ] Greedy
   - [ ] Dynamic Programming
@@ -200,8 +200,8 @@
   - [ ] Big-O notation
 - [ ] [`Abstract Data Types`]()
   - [ ] Stack
-  - ✅ Array
-  - ✅ List
+  - [X] Array
+  - [X] List
   - [ ] Map
   - [ ] Multimap
   - [ ] Set
@@ -443,4 +443,3 @@
 <br><br>
 
 ![Skills matrix](matrix.png)
-
