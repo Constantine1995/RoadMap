@@ -13,16 +13,16 @@
   - [ ] Memory leaks
   - [ ] [Autorelease pool](https://developer.apple.com/documentation/foundation/nsautoreleasepool?language=occ)
   - [ ] Shallow and deep copying
-  - [ ] Weak/Strong references
+  - [☑️] Weak/Strong references
 
 ## Swift
 
 - [☑️] Closures
 - [ ] Generics
-- [ ] Initializers
-- [ ] Protocols
-- [ ] Struct
-- [ ] Enums
+- [☑️] Initializers
+- [☑️] Protocols
+- [☑️] Struct
+- [☑️] Enums
 - [ ] Runtime
 - [ ] Method dispatch
 
@@ -45,17 +45,17 @@
 
 ## `UIKit`
 
-- [ ] UIApplication
-- [ ] UIApplication: States
-- [ ] [`UIViews`]()
-  - [ ] UITableViews
-  - [ ] UICollectionViews
-- [ ] [`Layout`]()
-  - [ ] Frame-based
-  - [ ] Autolayout
-- [ ] Navigation
-- [ ] UIViewController
-- [ ] UIViewController: Lifecycle
+- [☑️] UIApplication
+- [☑️] UIApplication: States
+- [☑️] [`UIViews`]()
+  - [☑️] UITableViews
+  - [☑️] UICollectionViews
+- [☑️] [`Layout`]()
+  - [☑️] Frame-based
+  - [☑️] Autolayout
+- [☑️] Navigation
+- [☑️] UIViewController
+- [☑️] UIViewController: Lifecycle
 
 ## Networking
 
@@ -80,7 +80,7 @@
 * [clean architecture 1](https://hackernoon.com/introducing-clean-swift-architecture-vip-770a639ad7bf)
 * [clear architecture 2](https://clean-swift.com/clean-swift-ios-architecture/)
 
-- [ ] MVC
+- [☑️] MVC
 - [ ] MVVM
 - [ ] MVP
 - [ ] VIPER
@@ -131,7 +131,7 @@
   - [ ] Dependency inversion principle
 - [ ] Inversion of Control
 - [ ] Dependency Injection
-- [ ] Dry (don't repeat yourself)
+- [☑️] Dry (don't repeat yourself)
 - [ ] KISS (keep it simple, stupid)
 
 ## Dependency management
@@ -150,7 +150,7 @@
 
 ## Caching and Presistency (2/4)
 
-- [ ] Core Data
+- [☑️] Core Data
 - [ ] Realm
 - [ ] YAPDatabase
 - [ ] SQLite
@@ -165,8 +165,8 @@
 
 ## XCode/Tools/Debbuging (7/11)
 
-- [ ] Workspace/cocoapods
-- [ ] Interface Builder
+- [☑️] Workspace/cocoapods
+- [☑️] Interface Builder
 - [ ] Keychain
 - [ ] Security Transforms API
 - [ ] UI Debbuging
@@ -444,7 +444,3 @@
 
 ![Skills matrix](matrix.png)
 
-## Контакты для связи:
-* skype: torlopov.andrey
-* email: [torlopov.andrey@gmail.com](mailto:torlopov.andrey@gmail.com)
-* github: [https://github.com/Torlopov-Andrey](https://github.com/Torlopov-Andrey)
