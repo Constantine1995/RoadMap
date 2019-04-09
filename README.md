@@ -6,7 +6,7 @@
 ##  Memory manadgment  
 
   - [ ] Stack and Heap
-  - [ ] Value vs Reference type
+  - ✅ Value vs Reference type
   - [ ] ARC
   - [ ] MRC
   - [ ] Retain cycles
@@ -94,7 +94,7 @@
   - [ ] Factory Method
   - [ ] Prototype
   - [ ] Object Pool
-  - [ ] Singleton
+  - ✅ Singleton
 - [ ] [`Structural`]()
   - [ ] Adapter
   - [ ] Bridge
@@ -125,13 +125,13 @@
 
 - [ ] [`SOLID`]()
   - [ ] Single responsibility principle
-  - [ ] Open/closed principle
+  - ✅ Open/closed principle
   - [ ] Liskov substitution principle
   - [ ] Interface segregation principle
   - [ ] Dependency inversion principle
 - [ ] Inversion of Control
 - [ ] Dependency Injection
-- [☑️] Dry (don't repeat yourself)
+- ✅ Dry (don't repeat yourself)
 - [ ] KISS (keep it simple, stupid)
 
 ## Dependency management
@@ -139,13 +139,13 @@
 * [article #1](https://medium.com/ios-os-x-development/cocoapods-vs-carthage-675633e89c3e)
 * [article #2](https://dzone.com/articles/carthage-or-cocoapods-that-is-the-question)
 
-- [ ] Cocoapods
+- ✅ Cocoapods
 - [ ] Carthage
 - [ ] Swift Package Manager
 
 ## Version Control System
 
-- [ ] git
+- ✅ git
 - [ ] SVN
 
 ## Caching and Presistency (2/4)
@@ -187,9 +187,9 @@
 ## Computer Science knowledge (2/22)
 
 - [ ] Algorithms
-  - [ ] Sorting
+  - ✅ Sorting
   - [ ] Graph Theory -> Trees
-  - [ ] Strings
+  - ✅ Strings
 
   - [ ] Greedy
   - [ ] Dynamic Programming
@@ -200,8 +200,8 @@
   - [ ] Big-O notation
 - [ ] [`Abstract Data Types`]()
   - [ ] Stack
-  - [ ] Array
-  - [ ] List
+  - ✅ Array
+  - ✅ List
   - [ ] Map
   - [ ] Multimap
   - [ ] Set
