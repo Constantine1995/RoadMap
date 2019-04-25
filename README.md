@@ -59,7 +59,7 @@
 
 ## Networking
 
-- [ ] URLSession
+- [X] URLSession
 - [ ] Alamofire
 - [ ] Rest API
 - [ ] Difference between `GET`, `POST`, `PUT`, `PATCH`, `DELETE`
