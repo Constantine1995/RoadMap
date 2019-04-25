@@ -128,9 +128,9 @@
   - [X] Open/closed principle
   - [ ] Liskov substitution principle
   - [ ] Interface segregation principle
-  - [ ] Dependency inversion principle
+  - [X] Dependency inversion principle
 - [ ] Inversion of Control
-- [ ] Dependency Injection
+- [X] Dependency Injection
 - [X] Dry (don't repeat yourself)
 - [ ] KISS (keep it simple, stupid)
 
@@ -140,7 +140,7 @@
 * [article #2](https://dzone.com/articles/carthage-or-cocoapods-that-is-the-question)
 
 - [X] Cocoapods
-- [ ] Carthage
+- [X] Carthage
 - [ ] Swift Package Manager
 
 ## Version Control System
@@ -236,8 +236,8 @@
 - [ ] MapKit
 - [ ] YandexMap
 - [ ] [`Animations`]()
-  - [ ] Core Graphics
-  - [ ] Core Animation
+  - [X] Core Graphics
+  - [X] Core Animation
   - [ ] Transformation
 - [ ] [`tvOS`]()
   - [ ] Focus interactions
@@ -271,8 +271,8 @@
 - [ ] [Runloop](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/Multithreading/RunLoopManagement/RunLoopManagement.html)
 - [ ] Blocks
 - [ ] Runtime
-- [ ] KVC
-- [ ] KVO
+- [X] KVC
+- [X] KVO
 - [ ] NSZombies and KVO implementation
 - [ ] Swizzling
 - [ ] [Method Swizzling](http://nshipster.com/method-swizzling/)
