@@ -62,7 +62,7 @@
 - [X] URLSession
 - [ ] Alamofire
 - [ ] Rest API
-- [ ] Difference between `GET`, `POST`, `PUT`, `PATCH`, `DELETE`
+- [X] Difference between `GET`, `POST`, `PUT`, `PATCH`, `DELETE`
 
 ## Foundation
 
@@ -140,7 +140,7 @@
 * [article #2](https://dzone.com/articles/carthage-or-cocoapods-that-is-the-question)
 
 - [X] Cocoapods
-- [X] Carthage
+- [~] Carthage
 - [ ] Swift Package Manager
 
 ## Version Control System
