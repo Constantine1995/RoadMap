@@ -60,19 +60,19 @@
 ## Networking
 
 - [X] URLSession
-- [ ] Alamofire
-- [ ] Rest API
+- [X] Alamofire
+- [X] Rest API
 - [X] Difference between `GET`, `POST`, `PUT`, `PATCH`, `DELETE`
 
 ## Foundation
 
-- [ ] Notifications vs Delegation vs Observing
-- [ ] Collections
+- [X] Notifications vs Delegation vs Observing
+- [X] Collections
 - [ ] Networking
 - [ ] [`Serialization`]()
   - [ ] NSCoding
   - [ ] Codable
-  - [ ] JSON
+  - [X] JSON
   - [ ] XML
   
 ## Software Architecture
@@ -81,8 +81,8 @@
 * [clear architecture 2](https://clean-swift.com/clean-swift-ios-architecture/)
 
 - [X] MVC
-- [ ] MVVM
-- [ ] MVP
+- [X] MVVM
+- [X] MVP
 - [ ] VIPER
 
 ## Design patterns (17/31)
@@ -96,28 +96,28 @@
   - [ ] Object Pool
   - [X] Singleton
 - [ ] [`Structural`]()
-  - [ ] Adapter
+  - [X] Adapter
   - [ ] Bridge
-  - [ ] Composite
-  - [ ] Decorator
-  - [ ] Facade
+  - [X] Composite
+  - [X] Decorator
+  - [X] Facade
   - [ ] Flyweight
-  - [ ] Proxy
+  - [X] Proxy
 - [ ] [`Behavioural`]()
-  - [ ] Command
-  - [ ] Chain of responsibility
+  - [X] Command
+  - [X] Chain of responsibility
   - [ ] Interpreter
-  - [ ] Iterator
+  - [X] Iterator
   - [ ] Mediator
   - [ ] Memento
-  - [ ] Observer
-  - [ ] State
-  - [ ] Strategy
+  - [X] Observer
+  - [X] State
+  - [X] Strategy
   - [ ] Visitor
 - [ ] [`Other`]()
-  - [ ] Anti-pattern
+  - [X] Anti-pattern
   - [ ] Class cluster
-  - [ ] Chain of Responsibility
+  - [X] Chain of Responsibility
   - [ ] Receptionist
   - [ ] Template Method
 
