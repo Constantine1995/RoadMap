@@ -88,10 +88,10 @@
 ## Design patterns (17/31)
 
 - [ ] [`Creational`]()
-  - [ ] Factory
-  - [ ] Abstract Factory
-  - [ ] Builder
-  - [ ] Factory Method
+  - [X] Factory
+  - [X] Abstract Factory
+  - [X] Builder
+  - [X] Factory Method
   - [ ] Prototype
   - [ ] Object Pool
   - [X] Singleton
