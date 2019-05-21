@@ -30,13 +30,13 @@
 
 * [Concurrency vs Multi-threading vs Asynchronous Programming : Explained](https://habr.com/ru/post/337528/)
   
-- [ ] [`GCD`](https://medium.com/@alexey_nenastev/всё-о-многопоточности-в-swift-часть-1-настоящее-f0b4d5718877)
-  - [ ] Semaphors
-  - [ ] DispatchGroup
-  - [ ] DispatchWorkItem
-  - [ ] DispatchSource
+- [X] [`GCD`](https://medium.com/@alexey_nenastev/всё-о-многопоточности-в-swift-часть-1-настоящее-f0b4d5718877)
+  - [X] Semaphors
+  - [X] DispatchGroup
+  - [X] DispatchWorkItem
+  - [+-] DispatchSource
 - [ ] NSOperationQueue
-- [ ] Race condition
+- [X] Race condition
 - [ ] Deadlock
 - [ ] Livelock
 - [ ] Readers/writers problem
