@@ -35,11 +35,11 @@
   - [X] DispatchGroup
   - [X] DispatchWorkItem
   - [+-] DispatchSource
-- [ ] NSOperationQueue
+- [+-] NSOperationQueue
 - [X] Race condition
-- [ ] Deadlock
-- [ ] Livelock
-- [ ] Readers/writers problem
+- [X] Deadlock
+- [X] Livelock
+- [X] Readers/writers problem
 - [ ] [Green threads](https://ru.wikipedia.org/wiki/Green_threads)
 - [ ] Runloop
 
@@ -57,7 +57,7 @@
 - [X] UIViewController
 - [X] UIViewController: Lifecycle
 
-## Networking
+## ✅ Networking
 
 - [X] URLSession
 - [X] Alamofire
@@ -257,7 +257,10 @@
 
 ## Course and tutorials
 
-- [ ] [Multithreading](https://swiftbook.ru)
+- [X] [Multithreading](https://swiftbook.ru)
+- [X] [MVVM](https://swiftbook.ru)
+- [X] [MVC](https://swiftbook.ru)
+- [X] [Паттерны проектирования](https://swiftbook.ru)
 - [ ] [TDD](https://swiftbook.ru)
 
 ## Articles (43/127)
@@ -304,12 +307,12 @@
 - [ ] [Foundation Framework](https://developer.apple.com/documentation/foundation)
 - [ ] [Parallel programming with Swift: Basics](https://medium.com/flawless-app-stories/basics-of-parallel-programming-with-swift-93fee8425287)
 - [ ] [Concurrent Programming](https://www.objc.io/issues/2-concurrency/)
-- [ ] [Multithreading: Common Pitfalls](https://austingwalters.com/multithreading-common-pitfalls/)
-- [ ] [NSOperation](http://nshipster.com/nsoperation/)
+- [X] [Multithreading: Common Pitfalls](https://austingwalters.com/multithreading-common-pitfalls/)
+- [X] [NSOperation](http://nshipster.com/nsoperation/)
 - [ ] [performSelector may cause a leak because its selector is unknown](https://stackoverflow.com/questions/7017281/performselector-may-cause-a-leak-because-its-selector-is-unknown)
 - [ ] [Alternatives to performSelector](http://codeshaker.blogspot.co.uk/2012/05/alternatives-to-performselector.html)
 - [ ] [Wiki: Readers–writers problem](https://en.wikipedia.org/wiki/Readers%E2%80%93writers_problem)
-- [ ] [Dispatch Barriers in Swift 3](https://medium.com/@oyalhi/dispatch-barriers-in-swift-3-6c4a295215d6)
+- [X] [Dispatch Barriers in Swift 3](https://medium.com/@oyalhi/dispatch-barriers-in-swift-3-6c4a295215d6)
 - [ ] [Run Loops](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/Multithreading/RunLoopManagement/RunLoopManagement.html)
 - [ ] [Synchronization](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/Multithreading/ThreadSafety/ThreadSafety.html)
 - [ ] [Dependency Injection](https://www.objc.io/issues/15-testing/dependency-injection/)
