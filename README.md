@@ -7,7 +7,7 @@
 
   - [ ] Stack and Heap
   - [X] Value vs Reference type
-  - [ ] ARC
+  - [X] ARC
   - [ ] MRC
   - [ ] Retain cycles
   - [ ] Memory leaks
@@ -68,7 +68,7 @@
 
 - [X] Notifications vs Delegation vs Observing
 - [X] Collections
-- [ ] Networking
+- [X] Networking
 - [ ] [`Serialization`]()
   - [ ] NSCoding
   - [ ] Codable
@@ -233,7 +233,7 @@
 - [ ] ARKit
 - [ ] HomeKit
 - [ ] MedKit
-- [ ] MapKit
+- [X] MapKit
 - [ ] YandexMap
 - [ ] [`Animations`]()
   - [X] Core Graphics
