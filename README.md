@@ -9,8 +9,8 @@
   - [X] Value vs Reference type
   - [X] ARC
   - [ ] MRC
-  - [ ] Retain cycles
-  - [ ] Memory leaks
+  - [X] Retain cycles
+  - [X] Memory leaks
   - [ ] [Autorelease pool](https://developer.apple.com/documentation/foundation/nsautoreleasepool?language=occ)
   - [ ] Shallow and deep copying
   - [X] Weak/Strong references
@@ -18,13 +18,13 @@
 ## Swift
 
 - [X] Closures
-- [ ] Generics
+- [X] Generics
 - [X] Initializers
 - [X] Protocols
 - [X] Struct
 - [X] Enums
 - [ ] Runtime
-- [ ] Method dispatch
+- [X] Method dispatch
 
 ## Multithreading and concurency
 
@@ -70,8 +70,8 @@
 - [X] Collections
 - [X] Networking
 - [ ] [`Serialization`]()
-  - [ ] NSCoding
-  - [ ] Codable
+  - [X] NSCoding
+  - [X] Codable
   - [X] JSON
   - [ ] XML
   
@@ -123,16 +123,16 @@
 
 ## Design principles
 
-- [ ] [`SOLID`]()
+- ✅  [`SOLID`]()
   - [X] Single responsibility principle
   - [X] Open/closed principle
-  - [ ] Liskov substitution principle
-  - [ ] Interface segregation principle
+  - [X] Liskov substitution principle
+  - [X] Interface segregation principle
   - [X] Dependency inversion principle
-- [ ] Inversion of Control
+- [X] Inversion of Control
 - [X] Dependency Injection
 - [X] Dry (don't repeat yourself)
-- [ ] KISS (keep it simple, stupid)
+- [X] KISS (keep it simple, stupid)
 
 ## Dependency management
 
@@ -140,8 +140,8 @@
 * [article #2](https://dzone.com/articles/carthage-or-cocoapods-that-is-the-question)
 
 - [X] Cocoapods
-- [~] Carthage
-- [ ] Swift Package Manager
+- [X] Carthage
+- [X] Swift Package Manager
 
 ## Version Control System
 
@@ -151,7 +151,7 @@
 ## Caching and Presistency (2/4)
 
 - [X] Core Data
-- [ ] Realm
+- [X] Realm
 - [ ] YAPDatabase
 - [ ] SQLite
 
@@ -167,10 +167,10 @@
 
 - [X] Workspace/cocoapods
 - [X] Interface Builder
-- [ ] Keychain
+- [X] Keychain
 - [ ] Security Transforms API
-- [ ] UI Debbuging
-- [ ] Reveal for UI Debuggin
+- [X] UI Debbuging
+- [[X] Reveal for UI Debuggin
 - [ ] Instruments: Leaks
 - [ ] Instruments: Time profiler
 - [ ] Instruments: Allocations
@@ -194,41 +194,41 @@
   - [ ] Greedy
   - [ ] Dynamic Programming
   - [ ] Bit Manipulation
-  - [ ] Recursion
+  - [X] Recursion
   - [ ] Game Theory
   - [ ] NP Complete
   - [ ] Big-O notation
 - [ ] [`Abstract Data Types`]()
-  - [ ] Stack
+  - [X] Stack
   - [X] Array
   - [X] List
-  - [ ] Map
+  - [X] Map
   - [ ] Multimap
-  - [ ] Set
+  - [X] Set
   - [ ] Multiset (Bag)
   - [ ] Graph -> Tree
-  - [ ] Queue
-  - [ ] Priority Queue
+  - [X] Queue
+  - [X] Priority Queue
   - [ ] Double-ended priority queue
   - [ ] Double-ended queue
 
 ## Programming Paradigms (3/16)
 
   - [ ] Protocol-Oriented 
-  - [ ] OOP
+  - [X] OOP
   - [ ] Functional
   - [ ] React Native
-  - [ ] RxSwift
-  - [ ] RxRealm, RxDataSources
+  - [X] RxSwift
+  - [X] RxRealm, RxDataSources
 
 ## Libs, frameworks, pods, Kit's
 
-- [ ] ObjectMapper (pod)
+- [X] ObjectMapper (pod)
 - [ ] Charts (pod)
 - [ ] Payments and subscription
-- [ ] Moya
+- [X] Moya
 - [ ] BLE (Bluetooth Low Energy)
-- [ ] AVFoundation
+- [X] AVFoundation
 - [ ] AVKit
 - [ ] ARKit
 - [ ] HomeKit
