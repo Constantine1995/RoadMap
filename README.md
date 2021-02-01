@@ -121,9 +121,9 @@
   - [ ] Receptionist
   - [ ] Template Method
 
-## Design principles
+## ✅ Design principles
 
-- ✅  [`SOLID`]()
+- [X] [`SOLID`]()
   - [X] Single responsibility principle
   - [X] Open/closed principle
   - [X] Liskov substitution principle
