@@ -134,10 +134,7 @@
 - [X] Dry (don't repeat yourself)
 - [X] KISS (keep it simple, stupid)
 
-## Dependency management
-
-* [article #1](https://medium.com/ios-os-x-development/cocoapods-vs-carthage-675633e89c3e)
-* [article #2](https://dzone.com/articles/carthage-or-cocoapods-that-is-the-question)
+## ✅ Dependency management
 
 - [X] Cocoapods
 - [X] Carthage
